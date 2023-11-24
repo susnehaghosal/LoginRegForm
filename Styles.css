@@ -1,0 +1,40 @@
+.service {
+    margin: 20px;
+    padding: 20px 30px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid #cc1e1e;
+    border-radius: 5px;
+    background: url(C:\Users\sghosal\Desktop\FrontEnd\Javascript1\react-demo\react-a\src\Tree.jpg) no-repeat;
+   /* background-image: 'react-a/src/Tree.jpg'; */
+   background-size: cover;
+    /* background-color: #f7f2f2;   */
+    color: rgb(16, 18, 16);
+    font-weight: bold;
+  }
+ 
+  button {
+    background-color: rgb(236, 200, 200);
+    color: #131111;
+    padding: 8px 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    margin-top: 20px;
+    font-weight: bold;
+    border-style: double;
+  }
+  
+  
+
+  
+  
+  .service-button:hover {
+    background-color: #857171;
+  } 
+  
+  /* div {
+    margin: 20px;
+  } */
